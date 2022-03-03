@@ -37,11 +37,6 @@
             <groupId>com.rosey.cloud</groupId>
             <artifactId>config</artifactId>
         </dependency>
-        <dependency>
-            <groupId>co.mysave.cms</groupId>
-            <artifactId>mysave-admin-rpc</artifactId>
-            <version>3.0.0</version>
-        </dependency>
     </dependencies>
 
 </project>
