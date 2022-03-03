@@ -1,0 +1,3 @@
+rpc.port=19773
+rpc.host=192.168.1.2
+status=UP

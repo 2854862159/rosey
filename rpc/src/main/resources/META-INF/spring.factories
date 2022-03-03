@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.rosey.cloud.rpc.service.autoconfiguration.RpcMetadataAutoConfiguration

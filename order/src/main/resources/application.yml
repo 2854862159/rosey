@@ -1,0 +1,11 @@
+server:
+  port: 9773
+
+spring:
+  profiles:
+    active: dev
+  application:
+    name: order
+  cloud:
+    rosey:
+      namespace: dev

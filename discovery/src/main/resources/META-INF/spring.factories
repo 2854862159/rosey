@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.rosey.cloud.discovery.RoseyDiscoveryAutoConfiguration,\
+  com.rosey.cloud.discovery.RoseyDiscoveryClientAutoConfiguration,\
+  com.rosey.cloud.registry.RoseyServiceRegistryAutoConfiguration
