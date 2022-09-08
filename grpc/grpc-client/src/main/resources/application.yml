@@ -1,0 +1,11 @@
+grpc:
+  client:
+    userClient:
+      #禁用传输层安全(https://yidongnan.github.io/grpc-spring-boot-starter/zh-CN/client/security.html)
+      negotiationType: PLAINTEXT
+      #grpc服务地址配置(https://yidongnan.github.io/grpc-spring-boot-starter/zh-CN/client/configuration.html#configuration-via-properties)
+      address: static://localhost:9091
+  server:
+    port: 9101
+server:
+  port: 9100

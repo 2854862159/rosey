@@ -16,6 +16,7 @@
         <module>config</module>
         <module>rpc-agent</module>
         <module>loop</module>
+        <module>grpc</module>
     </modules>
 
     <properties>
